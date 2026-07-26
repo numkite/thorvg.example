@@ -36,6 +36,7 @@ source_file = [
     'Animation.cpp',
     'Blending.cpp',
     'BoundingBox.cpp',
+    'CampingNight.cpp',
     'Clipping.cpp',
     'CustomTransform.cpp',
     'DataLoad.cpp',
